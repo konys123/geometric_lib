@@ -1,2 +1,2 @@
 def area(h,a):
-    area = h*a/2
+    return h*a/2
