@@ -1,2 +1,0 @@
-def area(h,a):
-    return h*a/2
