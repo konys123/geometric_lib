@@ -8,9 +8,9 @@
 - Square: S = a²
 
 ## Perimeter - получает на вход числа, возвращает периметр заданной фигуры.
-- Circle: P = 2πR
-- Rectangle: P = 2a + 2b
-- Square: P = 4a
+- (Circle)[https://github.com/konys123/geometric_lib/blob/main/circle.py]: P = 2πR
+- (Rectangle)[https://github.com/konys123/geometric_lib/blob/main/rectangle.py]: P = 2a + 2b
+- (Square)[https://github.com/konys123/geometric_lib/blob/main/square.py]: P = 4a
 
 # История изменения проекта с хешами комитов 😴
 - commit 8ba9aeb3cea847b63a91ac378a2a6db758682460
