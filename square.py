@@ -1,4 +1,6 @@
 import unittest
+
+
 def area(a):
     '''принимает число a, возвращает площадь квадрата со стороной a'''
     return a * a
@@ -7,7 +9,6 @@ def area(a):
 def perimetr(a):
     '''принимает число a, возвращает периметр квадрата со стороной a'''
     return 4 * a
-
 
 
 class SquareTest(unittest.TestCase):

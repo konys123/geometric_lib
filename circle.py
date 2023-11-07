@@ -1,6 +1,7 @@
 import math
 import unittest
 
+
 def area(r):
     '''принимает число r, возвращает площадь круга с радиусом r'''
     return math.pi * r * r
